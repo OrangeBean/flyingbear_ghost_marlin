@@ -2292,9 +2292,9 @@
 
 #if ENABLED(SKEW_CORRECTION)
   // Input all length measurements here:
-  #define XY_DIAG_AC 100.0367
-  #define XY_DIAG_BD 99.8133
-  #define XY_SIDE_AD 70.726
+  #define XY_DIAG_AC 99.8067
+  #define XY_DIAG_BD 100.11
+  #define XY_SIDE_AD 70.7254
 
   // Or, set the XY skew factor directly:
   //#define XY_SKEW_FACTOR 0.0
