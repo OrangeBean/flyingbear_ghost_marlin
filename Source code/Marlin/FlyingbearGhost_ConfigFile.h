@@ -48,7 +48,7 @@ NANO13S_STOCK   -    MKS Robin Nano 1.3s - Driver 4x TMC2225
 
  #define FILAMENT_RUNOUT_SENSOR                               //<------- Enable or disable filament runout sensor
 
- #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80.29, 80.51, 398.40, 397.44 }   //<------- Define your step/mm
+ #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80.28, 80.49, 398.43, 397.55 }   //<------- Define your step/mm
 
  #define PIDTEMP                                               //<------- Define your PIDTEMP
   #define DEFAULT_Kp  22.20
